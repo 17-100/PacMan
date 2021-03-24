@@ -18,7 +18,7 @@ From time-to-time we'll have special upgrading instructions from one version to 
 
 ## MIT Licensing Information
 
-Copyright (c) <year> <copyright holders>
+Copyright (c) <2021> <Özge Sebisteri>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
