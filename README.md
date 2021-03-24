@@ -16,7 +16,7 @@ From time-to-time we'll have special upgrading instructions from one version to 
 ## Team
 * [Oezge Sebisteri](https://github.com/17-100)
 
-## License
+## MIT Licensing Information
 
 Copyright (c) <year> <copyright holders>
 
